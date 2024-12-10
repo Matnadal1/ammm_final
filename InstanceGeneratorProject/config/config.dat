@@ -1,0 +1,10 @@
+# file name: C:/Users/Utilisateur/OneDrive/Documents/cours_20242025/AMMM/final_project/InstanceGeneratorProject/data/instance_XX.dat
+instancesDirectory = output;
+fileNamePrefix = project20;
+fileNameExtension = dat;
+numInstances = 10;
+
+N = 20;
+
+
+
