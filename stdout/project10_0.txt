@@ -1,0 +1,15 @@
+AMMM Lab Heuristics
+-------------------
+Config file C:\Users\Utilisateur\OneDrive\Documents\cours_20242025\AMMM\Heuristics_committee\config\config.dat
+Input Data file output/project10_0.dat
+Creating Problem Instance...
+Solving the Problem...
+Elap. Time (s)   Obj. Value     Iterations
+    0.00000000   0.00000000              0
+    0.00103092   12.53000000              1
+   60.00086308   12.53000000          43103
+Evaluation Performance:
+  Num. solutions constructed 43103
+  Total Eval. Time      60.00086307525635 s
+  Avg. Time / solution 1.3920345005047525 ms
+Solution : [<problem.Teacher.Teacher object at 0x000001EDB83B69C0>, <problem.Teacher.Teacher object at 0x000001EDB83B5220>, <problem.Teacher.Teacher object at 0x000001EDB83B6A20>, <problem.Teacher.Teacher object at 0x000001EDB83B69F0>, <problem.Teacher.Teacher object at 0x000001EDB83B6960>, <problem.Teacher.Teacher object at 0x000001EDB83B6990>, <problem.Teacher.Teacher object at 0x000001EDB83B68D0>]
